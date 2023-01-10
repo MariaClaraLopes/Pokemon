@@ -1,4 +1,4 @@
-# Olá :wave:
+# Olá,
  
 ## :woman_technologist: Somos um grupo de mulheres, desenvolvedoras móbile iOS!
 
